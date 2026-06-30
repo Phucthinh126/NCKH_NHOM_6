@@ -46,8 +46,9 @@ GitHub
 Dán đường dẫn repository GitHub của dự án.
 
 Ví dụ:
-
-https://github.com/<username>/<repository>
+```
+[https://github.com/<username>/<repository>](https://github.com/Phucthinh126/NCKH_NHOM_6/tree/master)
+```
 
 
 ## Bước 5
