@@ -29,9 +29,7 @@ https://colab.research.google.com/
 ## Bước 2
 
 Chọn:
-File
-    ↓
-Open notebook
+File -> Open notebook
 
 
 ## Bước 3
@@ -63,13 +61,7 @@ NCKH_Appr_Bayes_Gat.ipynb
 
 Nếu notebook sử dụng GPU T4 :
 
-Runtime
-    ↓
-Change runtime type
-    ↓
-Hardware accelerator
-    ↓
-GPU
+Runtime -> Change runtime type -> Hardware accelerator -> GPU
 
 Nếu không thay đổi sang GPU T4 mô hình huấn luyện rất chậm
 
